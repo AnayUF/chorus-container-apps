@@ -9,6 +9,7 @@ on:
       - 'www-dgs/**'
       - 'www-challenge/**'
       - 'www-engineer/**'
+      - 'www-datathon/**'
 
 env:
   REGISTRY: ghcr.io
