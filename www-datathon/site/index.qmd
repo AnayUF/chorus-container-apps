@@ -1,5 +1,5 @@
 ---
-title: Datathon Portal
+title: CHoRUS Datathon Portal
 subtitle: CHoRUS Azure Data Enclave
 format:
   html:

@@ -34,6 +34,9 @@ jobs:
           - dockerfile: ./www-engineer/Dockerfile
             image: ghcr.io/chorus-ai/chorus-www-engineer
             context: ./www-engineer
+          - dockerfile: ./www-datathon/Dockerfile
+            image: ghcr.io/chorus-ai/chorus-www-datathon
+            context: ./www-datathon
     permissions:
       contents: read
       packages: write
